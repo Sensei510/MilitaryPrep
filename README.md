@@ -4,7 +4,7 @@
 
 ## 🌐 Live Website
 
-👉 [Visit MilitaryPrep](https://sensei510.github.io/MilitaryPrep)  
+👉 https://military-prep.vercel.app/
 (No installation required—just click the link and start exploring!)
 
 ---
